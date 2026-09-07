@@ -1,0 +1,16 @@
+{
+  "name": "backend-project-1",
+  "version": "1.0.0",
+  "description": "my first backend project with help of yt channnel chai and code",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "pranjal kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
